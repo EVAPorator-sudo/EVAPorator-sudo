@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+Im currently learning:
+- Rust
+- Javascript
+- API + Backend design
+- Website design
+
+Tools im using:
+- Neovim
+- VSCode
+- Cargo
+
+If you want to contact me:
+https://discord.com/users/660274874400636948
 <!--
 **EVAPorator-sudo/EVAPorator-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
