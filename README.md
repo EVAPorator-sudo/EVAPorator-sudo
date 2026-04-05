@@ -7,9 +7,12 @@ Im currently learning:
 - Website design
 
 Tools im using:
-- Neovim
+- Neovim ([Dotfiles](https://github.com/EVAPorator-sudo/neovim))
 - VSCode
 - Cargo
+
+Check out my website !
+https://evaporatoronline.org
 
 If you want to contact me:
 https://discord.com/users/660274874400636948
